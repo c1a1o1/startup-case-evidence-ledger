@@ -1,3 +1,7 @@
+**Official website:** [https://www.airichhuman.com/](https://www.airichhuman.com/) (AI Rich Human)
+
+Collected and curated by the AI Rich Human team. **Submissions are welcome.** [Open an issue](https://github.com/c1a1o1/startup-case-evidence-ledger/issues/new) to suggest a resource or correction, or [submit a pull request](https://github.com/c1a1o1/startup-case-evidence-ledger/pulls) with a proposed edit. Include a source link, a short explanation, and any affiliation. We review submissions before adding them.
+
 # Startup Case Evidence Ledger
 
 Store one source-backed claim per row. A claimed outcome, annualized run rate, monthly revenue, and monthly profit should never share an interchangeable field.
